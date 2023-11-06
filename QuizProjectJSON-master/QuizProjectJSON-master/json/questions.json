@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Who was the first black President of South Africa?",
+    "choice1": "Jacob Zuma",
+    "choice2": "Thabo Mbeki",
+    "choice3": "Desmond Tutu",
+    "choice4": "Nelson Mandela",
+    "answer": 4
+  },
+  {
+    "question": "Shaka is the founder of South Africa’s largest ethnic group.  Name it.?",
+    "choice1": "Zulu",
+    "choice2": "Xhosa",
+    "choice3": "Sotho",
+    "choice4": "Pedi",
+    "answer": 1
+  },
+  {
+    "question": "Who won the 2023 Rugby World Cup?",
+    "choice1": "China",
+    "choice2": "Sri Lanka",
+    "choice3": "New Zealand",
+    "choice4": "South Africa",
+    "answer": 4
+  },
+  {
+    "question": "Who achieved worldwide success with his single ‘Jerusalema’ released in 2019??",
+    "choice1": "Zahara",
+    "choice2": "Zola 7",
+    "choice3": "Hugh Masikela",
+    "choice4": "Master KG",
+    "answer": 4
+  },
+  
+  {
+    "question": "Who is the captain of the National Rugby team of South Africa?",
+    "choice1": "Thembinkosi Lorch",
+    "choice2": "Brian Habbana",
+    "choice3": "Siya Kolisi",
+    "choice4": "Lil Wayne",
+    "answer": 4
+  }
+  
+]
